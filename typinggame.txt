@@ -1,0 +1,14 @@
+Typing Game:
+Words are steadily falling until they hit the ground.
+
+Core Elements:
+- Falling Strings
+- Set number of lives
+- User input processing and matching
+- Deletion of Strings upon match with user input
+
+Features:
+- Point system
+- Level(Difficulty) system
+- Visual aesthetics
+- Timer
